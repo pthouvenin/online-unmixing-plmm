@@ -4,7 +4,7 @@
 
 >P.-A. Thouvenin, N. Dobigeon and J.-Y. Tourneret - <strong>Online Unmixing of Multitemporal Hyperspectral Images Accounting for Spectral Variability</strong>, <em>IEEE Trans. Image Processing</em>, vol. 25, no. 9, pp. 3979-3990 Sep. 2016.
 
-**Author:** P.-A. Thouvenin, pierreantoine.thouvenin@gmail.com
+**Author:** P.-A. Thouvenin, pierreantoine[dot]thouvenin[at]gmail[dot]com
 
 **Experiments:** to run a representative example of the experiment on real data reported in the article, configure and run the following file:
 
