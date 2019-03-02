@@ -6,9 +6,7 @@
 
 **Author:** P.-A. Thouvenin, pierreantoine[dot]thouvenin[at]gmail[dot]com
 
-**Experiments:** to run a representative example of the experiment on real data reported in the article, configure and run the following file:
-
-- main.m
+**Experiments:** to run a representative example of the experiment on real data reported in the article, configure and run the `main.m`script.
 
 **Dependencies:** the present codes includes MATLAB functions described in the following publications, and developed by their authors.
 
